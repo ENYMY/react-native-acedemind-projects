@@ -5,6 +5,6 @@ Udemy Academind React-Native Projects
      <br> 
      <ul>
         <li>Expo Go app</li>
-        <li>View, Text, StyleSheet,Modal, TouchableOpacity </>
+        <li>View, Text, StyleSheet,Modal, TouchableOpacity </li>
      </ul>
      
